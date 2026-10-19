@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mercimek Çorbası",
+    "category": "Çorba",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["Kırmızı mercimek", "Soğan", "Havuç", "Tereyağı", "Tuz"]
+  },
+  {
+    "name": "Trabzon Tel Peynirli Bal Kabağı Parfesi",
+    "category": "Tatlı",
+    "calories": 250,
+    "vegan": false,
+    "ingredients": ["Trabzon tel peyniri", "Bal kabağı püresi", "Jelatin", "Şeker"]
+  }
+]
